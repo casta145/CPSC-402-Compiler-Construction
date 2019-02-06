@@ -1,13 +1,14 @@
 1. IDENTIFYING INFORMATION
 A. Full Name: Rielle Dizon, Alfonso Castanos, Cole Gotelli
-B. Student ID: 2288751
-C. Chapman Email: dizon110@mail.chapman.edu
+B. Student ID: 2288751, 2283681
+C. Chapman Email: dizon110@mail.chapman.edu, casta145@mail.chapman.edu
 D. Course Number and Section: CPSC 402-01
 E. Assignment or Exercise Number: Assignment 1
 
 2. A LIST OF ALL SOURCE FILES SUBMITTED FOR THIS ASSIGNMENT
 A. assignment1.py
 B. assg1test.txt
+C. assg1test2.txt
 
 
 3. A DESCRIPTION OF ANY KNOWN COMPILE OR RUNTIME ERRORS, CODE LIMITATIONS, OR DEViATIONS FROM ASSIGNMENT SPECIFICATIONS (IF APPLICABLE)
